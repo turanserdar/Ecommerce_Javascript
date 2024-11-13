@@ -14,10 +14,10 @@ Preview
 The E-commerce Website is a front-end interface designed to mimic an online shopping experience. It displays various products, allows users to add items to their cart, and offers navigation options. This project is designed to practice and showcase basic web development skills, particularly in HTML, CSS, and JavaScript.
 
 ## Features
-Product Display: Shows a selection of products with images, names, categories, and prices.
-Add to Basket: Users can add products to their basket by clicking the "Add to Basket" button on each product.
-Static Navigation: Includes static buttons for "Cart," "Sign Up," and "Log In" to improve the user experience, though these buttons are currently non-functional.
-Responsive Design: Layout adapts to various screen sizes for a seamless shopping experience.
+- Product Display: Shows a selection of products with images, names, categories, and prices.
+- Add to Basket: Users can add products to their basket by clicking the "Add to Basket" button on each product.
+- Static Navigation: Includes static buttons for "Cart," "Sign Up," and "Log In" to improve the user experience, though these buttons are currently non-functional.
+- Responsive Design: Layout adapts to various screen sizes for a seamless shopping experience.
 ## Technologies Used
 HTML for structuring the interface.
 CSS for styling, including a colorful, user-friendly design.
