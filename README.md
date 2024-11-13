@@ -18,10 +18,12 @@ Product Display: Shows a selection of products with images, names, categories, a
 Add to Basket: Users can add products to their basket by clicking the "Add to Basket" button on each product.
 Static Navigation: Includes static buttons for "Cart," "Sign Up," and "Log In" to improve the user experience, though these buttons are currently non-functional.
 Responsive Design: Layout adapts to various screen sizes for a seamless shopping experience.
-Technologies Used
+## Technologies Used
 HTML for structuring the interface.
 CSS for styling, including a colorful, user-friendly design.
 JavaScript for interactive elements like "Add to Basket."
+
+## Installation
 
 Clone the repository:
 
@@ -36,10 +38,10 @@ cd ecommerce-website
 Open the index.html file in your browser to view the application.
 
 ## Usage
-Open the application in a web browser.
-Browse through the products listed in the "Products" section.
-Click the "Add to Basket" button on a product to add it to your shopping cart.
-Use the "Cart," "Sign Up," and "Log In" buttons for navigation (note: these buttons are not currently functional).
+1. Open the application in a web browser.
+2. Browse through the products listed in the "Products" section.
+3. Click the "Add to Basket" button on a product to add it to your shopping cart.
+4. Use the "Cart," "Sign Up," and "Log In" buttons for navigation (note: these buttons are not currently functional).
 
 ## Contributing
 Fork the repository.
